@@ -14,4 +14,4 @@ To run this project locally, run the following command  `yarn start` or `npm sta
 
 ### GitHub Deployment
 
-SpaceX app is deployed on **GitHub** [React Color Picker](https://dhyanaswain.github.io/colorPickerReact/)
+React Color Picker app is deployed on **GitHub** [React Color Picker](https://dhyanaswain.github.io/colorPickerReact/)
